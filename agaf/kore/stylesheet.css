@@ -1,0 +1,17 @@
+.background_1 {
+    background-color:black;
+    color:white
+    height:20px;
+}
+.background_1 a{
+    float:right;
+}
+.keireki{
+    background-color:blue;
+}
+.sakamoto{
+    color:green;
+}
+body a{
+    color:blue;
+}
